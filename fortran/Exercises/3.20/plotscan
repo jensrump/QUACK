@@ -1,0 +1,10 @@
+f(x)=0
+set terminal wxt persist
+set xlabel "r / Bohr"
+set ylabel "E / Hartree"
+set title "Potential Energy Surface Scan"
+set autoscale
+plot "scan.dat" using 1:2 title 'MP2' w l, "scan.dat" using 3:4 title 'RHF' w l, f(x) notitle w l
+set terminal postscript portrait enhanced mono dashed lw 1 'Helvetica' 14
+set output "scan.pdf"
+replot

@@ -1,0 +1,13 @@
+LiH
+6 STOs:
+7776
+12 STOs:
+248832
+
+H2
+2 STOs:
+32
+4 STOs:
+1024
+
+=> if the number of STOs is N, then N^5 cycles are passed.

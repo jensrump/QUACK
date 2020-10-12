@@ -1,0 +1,41 @@
+
+ ****************************************INPUT****************************************
+
+ atom      charge  coordinates
+
+ Be  1     4.00    0.0000  0.0000  0.0000
+ Be  2     4.00    2.0000  0.0000  0.0000
+ Be  3     4.00    0.0000  2.0000  0.0000
+ Be  4     4.00    2.0000  2.0000  0.0000
+
+ *************************************END*OF*INPUT************************************
+
+ calculating nucelar repulsion energy...   done
+ CPU time:   1.5999999999999955E-005
+ setting up STO-6G basis             ...   done
+ CPU time:   6.7999999999999918E-005
+ calculating one electron integrals  ...   done
+ CPU time   1.4854999999999998E-002
+ calculating two electron integrals  ...   done
+ CPU time   45.412591999999997     
+ calculating transformation matrix   ...   done
+ CPU time   1.6600000000011050E-004
+
+ Beginning SCF-procedure:
+ iteration     total energy     electronic energy     change in energy
+   1           -48.86357140          -92.17727990         -92.17727990
+   2           -54.66152677          -97.97523527          -5.79795537
+   3           -55.24221509          -98.55592359          -0.58068832
+   4           -55.25291395          -98.56662245          -0.01069886
+   5           -55.25313759          -98.56684609          -0.00022364
+   6           -55.25315605          -98.56686455          -0.00001846
+   7           -55.25315795          -98.56686645          -0.00000190
+   8           -55.25315815          -98.56686665          -0.00000020
+   9           -55.25315817          -98.56686667          -0.00000002
+
+ Final single point energy:          -55.25315817  Hartree
+
+ Components:
+ Nuclear Repulsion:         43.31370850  Hartree
+ Electronic Energy:        -98.56686667  Hartree
+ CPU time:   7.0180000000021892E-003

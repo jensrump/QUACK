@@ -1,0 +1,24 @@
+RHF:
+ Final single point energy:           -2.86025137  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:         -2.86025137  Hartree
+         HF Energy:         -2.86025137  Hartree
+
+MP2:
+ Final single point energy:           -2.87293719  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:         -2.86025137  Hartree
+         HF Energy:         -2.86025137  Hartree
+    MP2 Correction:         -0.01268583  Hartree
+
+RHF (minimal Basis Set):
+ Final single point energy:           -2.84240633  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:         -2.84240633  Hartree
+         HF Energy:         -2.84240633  Hartree

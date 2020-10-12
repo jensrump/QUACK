@@ -1,0 +1,1250 @@
+
+ ****************************************INPUT****************************************
+
+ atom      charge  coordinates
+
+ He  1     2.00    0.0000  0.0000  0.0000
+ H   2     1.00    3.0000  0.0000  0.0000
+
+ *************************************END*OF*INPUT************************************
+
+ calculating nuclear repulsion energy...   done
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68989744           -3.35656411          -3.35656411
+   2            -2.71900006           -3.38566673          -0.02910262
+   3            -2.72302319           -3.38968986          -0.00402313
+   4            -2.72328510           -3.38995177          -0.00026191
+   5            -2.72329730           -3.38996396          -0.00001219
+   6            -2.72329781           -3.38996448          -0.00000052
+
+ Final single point energy:           -2.72329781  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.66666667  Hartree
+ Electronic Energy:         -3.38996448  Hartree
+
+ Mullikan atomic population analysis:
+ ************************************
+
+ number of electrons entered:      2
+ number of electrons found:        2.00000
+
+ Atom     partial charge
+ He  1     0.13961
+ H   2     0.86039
+
+ *******************************************
+ ********** Optimization step   1 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.69109809           -3.37230910          -3.37230910
+   2            -2.72318650           -3.40439751          -0.03208841
+   3            -2.72731482           -3.40852583          -0.00412832
+   4            -2.72755290           -3.40876391          -0.00023808
+   5            -2.72756263           -3.40877364          -0.00000973
+   6            -2.72756299           -3.40877400          -0.00000036
+
+ Final single point energy:           -2.72756299  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.68121101  Hartree
+ Electronic Energy:         -3.40877400  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.7275629917
+ He    0.0000000   0.0000000   0.0000000
+ H     2.9359478   0.0000000   0.0000000
+
+ change in energy after optimization step:  -0.00426518 Hartree
+
+ *******************************************
+ ********** Optimization step   2 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68549738           -3.27902080          -3.27902080
+   2            -2.70115971           -3.29468312          -0.01566233
+   3            -2.70412644           -3.29764985          -0.00296673
+   4            -2.70447068           -3.29799410          -0.00034425
+   5            -2.70450155           -3.29802496          -0.00003087
+   6            -2.70450407           -3.29802749          -0.00000252
+
+ Final single point energy:           -2.70450407  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.59352341  Hartree
+ Electronic Energy:         -3.29802749  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.7045040738
+ He    0.0000000   0.0000000   0.0000000
+ H     3.3697070   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.02305892 Hartree
+
+ *******************************************
+ ********** Optimization step   3 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68393286           -3.23205220          -3.23205220
+   2            -2.69326660           -3.24138593          -0.00933374
+   3            -2.69529605           -3.24341538          -0.00202945
+   4            -2.69561256           -3.24373190          -0.00031652
+   5            -2.69565337           -3.24377271          -0.00004081
+   6            -2.69565823           -3.24377756          -0.00000485
+
+ Final single point energy:           -2.69565823  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.54811933  Hartree
+ Electronic Energy:         -3.24377756  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.6956582293
+ He    0.0000000   0.0000000   0.0000000
+ H     3.6488405   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.00884584 Hartree
+
+ *******************************************
+ ********** Optimization step   4 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68316671           -3.19530817          -3.19530817
+   2            -2.68881215           -3.20095361          -0.00564544
+   3            -2.69012615           -3.20226760          -0.00131400
+   4            -2.69037082           -3.20251228          -0.00024468
+   5            -2.69041066           -3.20255212          -0.00003984
+   6            -2.69041675           -3.20255821          -0.00000609
+   7            -2.69041766           -3.20255912          -0.00000091
+
+ Final single point energy:           -2.69041766  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.51214146  Hartree
+ Electronic Energy:         -3.20255912  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.6904176600
+ He    0.0000000   0.0000000   0.0000000
+ H     3.9051711   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.00524057 Hartree
+
+ *******************************************
+ ********** Optimization step   5 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68277894           -3.16623714          -3.16623714
+   2            -2.68630092           -3.16975911          -0.00352197
+   3            -2.68714214           -3.17060033          -0.00084123
+   4            -2.68731486           -3.17077305          -0.00017272
+   5            -2.68734716           -3.17080535          -0.00003230
+   6            -2.68735293           -3.17081112          -0.00000577
+   7            -2.68735394           -3.17081213          -0.00000101
+
+ Final single point energy:           -2.68735394  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.48345819  Hartree
+ Electronic Energy:         -3.17081213  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.6873539381
+ He    0.0000000   0.0000000   0.0000000
+ H     4.1368624   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.00306372 Hartree
+
+ *******************************************
+ ********** Optimization step   6 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68256694           -3.14200972          -3.14200972
+   2            -2.68480773           -3.14425050          -0.00224079
+   3            -2.68534410           -3.14478688          -0.00053638
+   4            -2.68545991           -3.14490268          -0.00011580
+   5            -2.68548335           -3.14492613          -0.00002345
+   6            -2.68548795           -3.14493073          -0.00000459
+
+ Final single point energy:           -2.68548795  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.45944278  Hartree
+ Electronic Energy:         -3.14493073  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.6854879488
+ He    0.0000000   0.0000000   0.0000000
+ H     4.3530992   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.00186599 Hartree
+
+ *******************************************
+ ********** Optimization step   7 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68244575           -3.12126228          -3.12126228
+   2            -2.68389394           -3.12271046          -0.00144818
+   3            -2.68423653           -3.12305306          -0.00034260
+   4            -2.68431204           -3.12312857          -0.00007551
+   5            -2.68432797           -3.12314449          -0.00001593
+   6            -2.68433125           -3.12314777          -0.00000328
+
+ Final single point energy:           -2.68433125  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.43881652  Hartree
+ Electronic Energy:         -3.12314777  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.6843312500
+ He    0.0000000   0.0000000   0.0000000
+ H     4.5577135   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.00115670 Hartree
+
+ *******************************************
+ ********** Optimization step   8 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68237388           -3.10306833          -3.10306833
+   2            -2.68332024           -3.10401469          -0.00094636
+   3            -2.68353966           -3.10423411          -0.00021942
+   4            -2.68358811           -3.10428256          -0.00004845
+   5            -2.68359849           -3.10429294          -0.00001038
+   6            -2.68360068           -3.10429513          -0.00000219
+
+ Final single point energy:           -2.68360068  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.42069445  Hartree
+ Electronic Energy:         -3.10429513  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.6836006821
+ He    0.0000000   0.0000000   0.0000000
+ H     4.7540441   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.00073057 Hartree
+
+ *******************************************
+ ********** Optimization step   9 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68233009           -3.08683452          -3.08683452
+   2            -2.68295342           -3.08745785          -0.00062333
+   3            -2.68309434           -3.08759878          -0.00014093
+   4            -2.68312515           -3.08762958          -0.00003081
+   5            -2.68313175           -3.08763618          -0.00000660
+   6            -2.68313315           -3.08763758          -0.00000140
+
+ Final single point energy:           -2.68313315  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.40450443  Hartree
+ Electronic Energy:         -3.08763758  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.6831331457
+ He    0.0000000   0.0000000   0.0000000
+ H     4.9443216   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.00046754 Hartree
+
+ *******************************************
+ ********** Optimization step  10 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68230288           -3.07215269          -3.07215269
+   2            -2.68271567           -3.07256548          -0.00041279
+   3            -2.68280639           -3.07265620          -0.00009073
+   4            -2.68282587           -3.07267568          -0.00001948
+   5            -2.68283000           -3.07267981          -0.00000412
+
+ Final single point energy:           -2.68283000  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.38984981  Hartree
+ Electronic Energy:         -3.07267981  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.6828299987
+ He    0.0000000   0.0000000   0.0000000
+ H     5.1301808   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.00030315 Hartree
+
+ *******************************************
+ ********** Optimization step  11 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68228578           -3.05880344          -3.05880344
+   2            -2.68256072           -3.05907838          -0.00027495
+   3            -2.68261937           -3.05913703          -0.00005865
+   4            -2.68263168           -3.05914934          -0.00001231
+   5            -2.68263424           -3.05915190          -0.00000256
+
+ Final single point energy:           -2.68263424  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.37651766  Hartree
+ Electronic Energy:         -3.05915190  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.6826342408
+ He    0.0000000   0.0000000   0.0000000
+ H     5.3118358   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.00019576 Hartree
+
+ *******************************************
+ ********** Optimization step  12 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68227479           -3.04642423          -3.04642423
+   2            -2.68245786           -3.04660730          -0.00018308
+   3            -2.68249572           -3.04664516          -0.00003785
+   4            -2.68250346           -3.04665290          -0.00000774
+   5            -2.68250503           -3.04665447          -0.00000157
+
+ Final single point energy:           -2.68250503  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.36414944  Hartree
+ Electronic Energy:         -3.04665447  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.6825050297
+ He    0.0000000   0.0000000   0.0000000
+ H     5.4922507   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.00012921 Hartree
+
+ *******************************************
+ ********** Optimization step  13 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68226773           -3.03496462          -3.03496462
+   2            -2.68238987           -3.03508676          -0.00012214
+   3            -2.68241434           -3.03511122          -0.00002447
+   4            -2.68241920           -3.03511609          -0.00000486
+
+ Final single point energy:           -2.68241920  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.35269689  Hartree
+ Electronic Energy:         -3.03511609  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.6824191998
+ He    0.0000000   0.0000000   0.0000000
+ H     5.6705916   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.00008583 Hartree
+
+ *******************************************
+ ********** Optimization step  14 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68226323           -3.02449689          -3.02449689
+   2            -2.68234544           -3.02457909          -0.00008221
+   3            -2.68236140           -3.02459506          -0.00001596
+   4            -2.68236449           -3.02459814          -0.00000308
+
+ Final single point energy:           -2.68236449  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.34223365  Hartree
+ Electronic Energy:         -3.02459814  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.6823644875
+ He    0.0000000   0.0000000   0.0000000
+ H     5.8439606   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.00005471 Hartree
+
+ *******************************************
+ ********** Optimization step  15 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68226022           -3.01443891          -3.01443891
+   2            -2.68231497           -3.01449366          -0.00005475
+   3            -2.68232527           -3.01450396          -0.00001030
+   4            -2.68232720           -3.01450589          -0.00000193
+
+ Final single point energy:           -2.68232720  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.33217869  Hartree
+ Electronic Energy:         -3.01450589  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.6823272031
+ He    0.0000000   0.0000000   0.0000000
+ H     6.0208558   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.00003728 Hartree
+
+ *******************************************
+ ********** Optimization step  16 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68225827           -3.00505691          -3.00505691
+   2            -2.68229481           -3.00509345          -0.00003654
+   3            -2.68230147           -3.00510011          -0.00000666
+   4            -2.68230268           -3.00510132          -0.00000121
+
+ Final single point energy:           -2.68230268  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.32279864  Hartree
+ Electronic Energy:         -3.00510132  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.6823026815
+ He    0.0000000   0.0000000   0.0000000
+ H     6.1958131   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.00002452 Hartree
+
+ *******************************************
+ ********** Optimization step  17 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68225699           -2.99622139          -2.99622139
+   2            -2.68228135           -2.99624575          -0.00002436
+   3            -2.68228566           -2.99625005          -0.00000430
+
+ Final single point energy:           -2.68228566  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.31396440  Hartree
+ Electronic Energy:         -2.99625005  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.6822856553
+ He    0.0000000   0.0000000   0.0000000
+ H     6.3701490   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.00001703 Hartree
+
+ *******************************************
+ ********** Optimization step  18 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68225621           -2.98851726          -2.98851726
+   2            -2.68227295           -2.98853400          -0.00001674
+   3            -2.68227582           -2.98853688          -0.00000287
+
+ Final single point energy:           -2.68227582  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.30626105  Hartree
+ Electronic Energy:         -2.98853688  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.6822758234
+ He    0.0000000   0.0000000   0.0000000
+ H     6.5303766   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.00000983 Hartree
+
+ *******************************************
+ ********** Optimization step  19 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68225563           -2.98046053          -2.98046053
+   2            -2.68226668           -2.98047157          -0.00001104
+   3            -2.68226852           -2.98047341          -0.00000184
+
+ Final single point energy:           -2.68226852  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.29820490  Hartree
+ Electronic Energy:         -2.98047341  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.6822685154
+ He    0.0000000   0.0000000   0.0000000
+ H     6.7067980   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.00000731 Hartree
+
+ *******************************************
+ ********** Optimization step  20 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68225527           -2.97300821          -2.97300821
+   2            -2.68226261           -2.97301555          -0.00000734
+   3            -2.68226379           -2.97301673          -0.00000119
+
+ Final single point energy:           -2.68226379  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.29075294  Hartree
+ Electronic Energy:         -2.97301673  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.6822637914
+ He    0.0000000   0.0000000   0.0000000
+ H     6.8786923   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.00000472 Hartree
+
+ *******************************************
+ ********** Optimization step  21 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68225502           -2.96592653          -2.96592653
+   2            -2.68225989           -2.96593139          -0.00000486
+
+ Final single point energy:           -2.68225989  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.28367150  Hartree
+ Electronic Energy:         -2.96593139  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.6822598862
+ He    0.0000000   0.0000000   0.0000000
+ H     7.0504086   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.00000391 Hartree
+
+ *******************************************
+ ********** Optimization step  22 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68225491           -2.96129568          -2.96129568
+   2            -2.68225857           -2.96129935          -0.00000367
+
+ Final single point energy:           -2.68225857  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.27904077  Hartree
+ Electronic Energy:         -2.96129935  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.6822585729
+ He    0.0000000   0.0000000   0.0000000
+ H     7.1674113   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.00000131 Hartree
+
+ *******************************************
+ ********** Optimization step  23 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68225478           -2.95433379          -2.95433379
+   2            -2.68225713           -2.95433614          -0.00000235
+
+ Final single point energy:           -2.68225713  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.27207901  Hartree
+ Electronic Energy:         -2.95433614  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.6822571251
+ He    0.0000000   0.0000000   0.0000000
+ H     7.3508059   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.00000145 Hartree
+
+ *******************************************
+ ********** Optimization step  24 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   2 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68225470           -2.94827905          -2.94827905
+   2            -2.68225626           -2.94828061          -0.00000155
+
+ Final single point energy:           -2.68225626  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.26602435  Hartree
+ Electronic Energy:         -2.94828061  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.6822562581
+ He    0.0000000   0.0000000   0.0000000
+ H     7.5181088   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.00000087 Hartree
+
+ *******************************************
+ ********** Optimization step  25 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   3 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68225465           -2.94243528          -2.94243528
+   2            -2.68225567           -2.94243630          -0.00000102
+
+ Final single point energy:           -2.68225567  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.26018063  Hartree
+ Electronic Energy:         -2.94243630  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.6822556749
+ He    0.0000000   0.0000000   0.0000000
+ H     7.6869675   0.0000000   0.0000000
+
+ change in energy after optimization step:   0.00000058 Hartree
+
+ Mullikan atomic population analysis:
+ ************************************
+
+ number of electrons entered:      2
+ number of electrons found:        2.00000
+
+ Atom     partial charge
+ He  1     0.00001
+ H   2     0.99999
+
+ *******************************************
+ ********** Optimization step  26 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   2 gradients done
+   2 of   2 gradients done
+   1 out of   2 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.68249361           -2.94267423          -2.94267423
+   2            -2.68249466           -2.94267529          -0.00000105
+
+ Final single point energy:           -2.68249466  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.26018063  Hartree
+ Electronic Energy:         -2.94267529  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ He  1
+           2.092500000      1.282602139
+ H   2
+           1.240000000      1.240000279
+
+ change in energy after optimization step:  -0.00023899 Hartree
+
+ *******************************************
+ ********** Optimization step  27 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   2 gradients done
+   2 of   2 gradients done
+   1 out of   2 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.84629883           -3.10647946          -3.10647946
+   2            -2.84629939           -3.10648002          -0.00000056
+
+ Final single point energy:           -2.84629939  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.26018063  Hartree
+ Electronic Energy:         -3.10648002  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ He  1
+           2.092500000      1.687403792
+ H   2
+           1.240000000      1.240000028
+
+ change in energy after optimization step:  -0.16380473 Hartree
+
+ *******************************************
+ ********** Optimization step  28 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   2 gradients done
+   2 of   2 gradients done
+   2 out of   2 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.84629882           -3.10647944          -3.10647944
+   2            -2.84629941           -3.10648004          -0.00000059
+
+ Final single point energy:           -2.84629941  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.26018063  Hartree
+ Electronic Energy:         -3.10648004  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ He  1
+           2.092500000      1.687403321
+ H   2
+           1.240000000      1.233031388
+
+ change in energy after optimization step:  -0.00000002 Hartree
+
+ Mullikan atomic population analysis:
+ ************************************
+
+ number of electrons entered:      2
+ number of electrons found:        2.00000
+
+ Atom     partial charge
+ He  1     0.00000
+ H   2     1.00000
+
+ *******************************************
+ ********** Optimization step  29 **********
+ *******************************************
+
+ calculating gradient of atomic coordinates
+ ...   3 of   3 gradients done
+   3 out of   3 coordinates converged
+
+ calculating nuclear repulsion energy...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.84629882           -3.10647947          -3.10647947
+   2            -2.84629941           -3.10648007          -0.00000059
+
+ Final single point energy:           -2.84629941  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.26018065  Hartree
+ Electronic Energy:         -3.10648007  Hartree
+
+ New structure:
+ **************
+
+   2
+ FINAL SCF ENERGY =   -2.8462994112
+ He    0.0000000   0.0000000   0.0000000
+ H     7.6869666   0.0000000   0.0000000
+
+ change in energy after optimization step:  -0.00000000 Hartree
+
+ Mullikan atomic population analysis:
+ ************************************
+
+ number of electrons entered:      2
+ number of electrons found:        2.00000
+
+ Atom     partial charge
+ He  1     0.00000
+ H   2     1.00000
+
+ *******************************************
+ ********** Optimization step  30 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   2 gradients done
+   2 of   2 gradients done
+   2 out of   2 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.84629882           -3.10647947          -3.10647947
+   2            -2.84629941           -3.10648007          -0.00000059
+
+ Final single point energy:           -2.84629941  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.26018065  Hartree
+ Electronic Energy:         -3.10648007  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ He  1
+           1.687403321      1.687403417
+ H   2
+           1.233031388      1.233028792
+
+ change in energy after optimization step:  -0.00000000 Hartree
+
+ Mullikan atomic population analysis:
+ ************************************
+
+ number of electrons entered:      2
+ number of electrons found:        2.00000
+
+ Atom     partial charge
+ He  1     0.00000
+ H   2     1.00000
+
+ ************************************************
+ ********** CONVERGED AFTER  30 cycles **********
+ ************************************************
+
+ Optimized structure:
+ ********************
+
+   2
+ FINAL SCF ENERGY =   -2.8462994112
+ He    0.0000000   0.0000000   0.0000000
+ H     7.6869666   0.0000000   0.0000000
+
+ Optimized slater exponents:
+ ***************************
+
+ Atom     new exponent
+ He  1
+            1.68740342
+ H   2
+            1.23302879

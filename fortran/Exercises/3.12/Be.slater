@@ -1,0 +1,14 @@
+ Optimized slater exponents:
+ ***************************
+
+ FINAL SCF ENERGY =  -14.5686364309
+
+ Atom     new exponent
+ Be  1
+            5.50608375
+            3.27215391
+            1.75999690
+            0.72329999
+
+E(Be) at basis set limit: -14.573 Hartree
+dE = 0.00436 Hartree = 11.4 kJ/mol

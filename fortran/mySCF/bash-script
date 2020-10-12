@@ -1,0 +1,11 @@
+#!/bin/bash
+test -s plot.dat && rm plot.dat
+for i in $(seq -f "%0.1f" 0.6 0.1 3.0)
+do
+dist=$(echo $i|sed 's/,/./g')
+cat h2.in |sed "s/XXX/$dist/g" > tmp.in
+scf-script -f tmp.in |grep 'Final single point energy' |gawk '{print $(NF-1)}' > TeMp
+energy=$(sed -n '1p' TeMp|gawk '{print $1}')
+echo "$dist   $energy" >> plot.dat
+done
+test -s tmp.in && rm tmp.in

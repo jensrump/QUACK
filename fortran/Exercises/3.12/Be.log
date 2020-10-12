@@ -1,0 +1,4215 @@
+
+ ****************************************INPUT****************************************
+
+ atom      charge  coordinates
+
+ Be  1     4.00    0.0000  0.0000  0.0000
+
+ *************************************END*OF*INPUT************************************
+
+ calculating nuclear repulsion energy...   done
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.71444065          -13.71444065         -13.71444065
+   2           -14.53886911          -14.53886911          -0.82442846
+   3           -14.54878477          -14.54878477          -0.00991566
+   4           -14.54907253          -14.54907253          -0.00028776
+   5           -14.54908132          -14.54908132          -0.00000879
+   6           -14.54908159          -14.54908159          -0.00000027
+
+ Final single point energy:          -14.54908159  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.54908159  Hartree
+         HF Energy:        -14.54908159  Hartree
+
+ Mullikan atomic population analysis:
+ ************************************
+
+ number of electrons entered:      4
+ number of electrons found:        4.00000
+
+ Atom     partial charge
+ Be  1     0.00000
+
+ *******************************************
+ ********** Optimization step   1 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.71824524          -13.71824524         -13.71824524
+   2           -14.54186753          -14.54186753          -0.82362228
+   3           -14.55160237          -14.55160237          -0.00973485
+   4           -14.55188614          -14.55188614          -0.00028377
+   5           -14.55189487          -14.55189487          -0.00000872
+   6           -14.55189514          -14.55189514          -0.00000027
+
+ Final single point energy:          -14.55189514  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.55189514  Hartree
+         HF Energy:        -14.55189514  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      3.499459937
+           2.761600000      2.768938965
+           1.423600000      1.416957311
+           0.908400000      0.861549518
+
+ change in energy after optimization step:  -0.00281355 Hartree
+
+ *******************************************
+ ********** Optimization step   2 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.73781743          -13.73781743         -13.73781743
+   2           -14.54463535          -14.54463535          -0.80681792
+   3           -14.55210553          -14.55210553          -0.00747019
+   4           -14.55228785          -14.55228785          -0.00018232
+   5           -14.55229254          -14.55229254          -0.00000468
+
+ Final single point energy:          -14.55229254  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.55229254  Hartree
+         HF Energy:        -14.55229254  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.747794511
+           2.761600000      2.777848036
+           1.423600000      1.419474502
+           0.908400000      0.646225216
+
+ change in energy after optimization step:  -0.00039740 Hartree
+
+ *******************************************
+ ********** Optimization step   3 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.72761720          -13.72761720         -13.72761720
+   2           -14.55757841          -14.55757841          -0.82996121
+   3           -14.56660735          -14.56660735          -0.00902894
+   4           -14.56684791          -14.56684791          -0.00024055
+   5           -14.56685462          -14.56685462          -0.00000672
+   6           -14.56685481          -14.56685481          -0.00000019
+
+ Final single point energy:          -14.56685481  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56685481  Hartree
+         HF Energy:        -14.56685481  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      4.877065115
+           2.761600000      2.779940595
+           1.423600000      1.426109013
+           0.908400000      0.782997690
+
+ change in energy after optimization step:  -0.01456228 Hartree
+
+ *******************************************
+ ********** Optimization step   4 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.73049381          -13.73049381         -13.73049381
+   2           -14.55876906          -14.55876906          -0.82827525
+   3           -14.56765092          -14.56765092          -0.00888186
+   4           -14.56789160          -14.56789160          -0.00024068
+   5           -14.56789845          -14.56789845          -0.00000685
+   6           -14.56789865          -14.56789865          -0.00000020
+
+ Final single point energy:          -14.56789865  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56789865  Hartree
+         HF Energy:        -14.56789865  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      4.502348172
+           2.761600000      2.780126221
+           1.423600000      1.425438418
+           0.908400000      0.759291943
+
+ change in energy after optimization step:  -0.00104384 Hartree
+
+ *******************************************
+ ********** Optimization step   5 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.73091516          -13.73091516         -13.73091516
+   2           -14.55889693          -14.55889693          -0.82798178
+   3           -14.56770583          -14.56770583          -0.00880890
+   4           -14.56794317          -14.56794317          -0.00023734
+   5           -14.56794989          -14.56794989          -0.00000672
+   6           -14.56795008          -14.56795008          -0.00000019
+
+ Final single point energy:          -14.56795008  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56795008  Hartree
+         HF Energy:        -14.56795008  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      4.573578876
+           2.761600000      2.780416585
+           1.423600000      1.425849195
+           0.908400000      0.752303489
+
+ change in energy after optimization step:  -0.00005143 Hartree
+
+ *******************************************
+ ********** Optimization step   6 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.73010656          -13.73010656         -13.73010656
+   2           -14.55891004          -14.55891004          -0.82880348
+   3           -14.56771276          -14.56771276          -0.00880271
+   4           -14.56794973          -14.56794973          -0.00023697
+   5           -14.56795643          -14.56795643          -0.00000670
+   6           -14.56795662          -14.56795662          -0.00000019
+
+ Final single point energy:          -14.56795662  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56795662  Hartree
+         HF Energy:        -14.56795662  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      4.565686821
+           2.761600000      2.782534955
+           1.423600000      1.427565534
+           0.908400000      0.752484838
+
+ change in energy after optimization step:  -0.00000654 Hartree
+
+ *******************************************
+ ********** Optimization step   7 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.68711743          -13.68711743         -13.68711743
+   2           -14.55937250          -14.55937250          -0.87225506
+   3           -14.56765357          -14.56765357          -0.00828107
+   4           -14.56786059          -14.56786059          -0.00020702
+   5           -14.56786603          -14.56786603          -0.00000544
+   6           -14.56786617          -14.56786617          -0.00000014
+
+ Final single point energy:          -14.56786617  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56786617  Hartree
+         HF Energy:        -14.56786617  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      4.567444134
+           2.761600000      3.005473704
+           1.423600000      1.475327030
+           0.908400000      0.752322498
+
+ change in energy after optimization step:   0.00009045 Hartree
+
+ *******************************************
+ ********** Optimization step   8 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.68972435          -13.68972435         -13.68972435
+   2           -14.55948181          -14.55948181          -0.86975747
+   3           -14.56787583          -14.56787583          -0.00839402
+   4           -14.56808741          -14.56808741          -0.00021158
+   5           -14.56809302          -14.56809302          -0.00000560
+   6           -14.56809317          -14.56809317          -0.00000015
+
+ Final single point energy:          -14.56809317  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56809317  Hartree
+         HF Energy:        -14.56809317  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      4.569226833
+           2.761600000      2.866074955
+           1.423600000      1.527258689
+           0.908400000      0.752134704
+
+ change in energy after optimization step:  -0.00022699 Hartree
+
+ *******************************************
+ ********** Optimization step   9 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.68577193          -13.68577193         -13.68577193
+   2           -14.55953209          -14.55953209          -0.87376017
+   3           -14.56789087          -14.56789087          -0.00835877
+   4           -14.56810023          -14.56810023          -0.00020936
+   5           -14.56810574          -14.56810574          -0.00000551
+   6           -14.56810589          -14.56810589          -0.00000015
+
+ Final single point energy:          -14.56810589  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56810589  Hartree
+         HF Energy:        -14.56810589  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      4.571148583
+           2.761600000      2.854142408
+           1.423600000      1.546645765
+           0.908400000      0.751131257
+
+ change in energy after optimization step:  -0.00001272 Hartree
+
+ *******************************************
+ ********** Optimization step  10 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.67957674          -13.67957674         -13.67957674
+   2           -14.55981048          -14.55981048          -0.88023375
+   3           -14.56796578          -14.56796578          -0.00815530
+   4           -14.56816718          -14.56816718          -0.00020140
+   5           -14.56817241          -14.56817241          -0.00000523
+   6           -14.56817255          -14.56817255          -0.00000014
+
+ Final single point energy:          -14.56817255  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56817255  Hartree
+         HF Energy:        -14.56817255  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      4.590696869
+           2.761600000      2.860506456
+           1.423600000      1.562953445
+           0.908400000      0.736078765
+
+ change in energy after optimization step:  -0.00006666 Hartree
+
+ *******************************************
+ ********** Optimization step  11 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.67184548          -13.67184548         -13.67184548
+   2           -14.55994963          -14.55994963          -0.88810415
+   3           -14.56804066          -14.56804066          -0.00809103
+   4           -14.56823676          -14.56823676          -0.00019610
+   5           -14.56824176          -14.56824176          -0.00000499
+
+ Final single point energy:          -14.56824176  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56824176  Hartree
+         HF Energy:        -14.56824176  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      4.747786646
+           2.761600000      2.867530051
+           1.423600000      1.580507368
+           0.908400000      0.738050780
+
+ change in energy after optimization step:  -0.00006921 Hartree
+
+ *******************************************
+ ********** Optimization step  12 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.66407939          -13.66407939         -13.66407939
+   2           -14.56007485          -14.56007485          -0.89599546
+   3           -14.56809346          -14.56809346          -0.00801861
+   4           -14.56828580          -14.56828580          -0.00019234
+   5           -14.56829065          -14.56829065          -0.00000485
+
+ Final single point energy:          -14.56829065  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56829065  Hartree
+         HF Energy:        -14.56829065  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      4.692393037
+           2.761600000      2.875642391
+           1.423600000      1.606303730
+           0.908400000      0.736825905
+
+ change in energy after optimization step:  -0.00004890 Hartree
+
+ *******************************************
+ ********** Optimization step  13 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.62923327          -13.62923327         -13.62923327
+   2           -14.56044289          -14.56044289          -0.93120961
+   3           -14.56804873          -14.56804873          -0.00760585
+   4           -14.56822080          -14.56822080          -0.00017207
+   5           -14.56822489          -14.56822489          -0.00000409
+
+ Final single point energy:          -14.56822489  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56822489  Hartree
+         HF Energy:        -14.56822489  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      4.705485659
+           2.761600000      3.050755645
+           1.423600000      1.642693752
+           0.908400000      0.729734480
+
+ change in energy after optimization step:   0.00006576 Hartree
+
+ *******************************************
+ ********** Optimization step  14 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.59404065          -13.59404065         -13.59404065
+   2           -14.56091620          -14.56091620          -0.96687555
+   3           -14.56819832          -14.56819832          -0.00728212
+   4           -14.56835238          -14.56835238          -0.00015406
+   5           -14.56835580          -14.56835580          -0.00000341
+
+ Final single point energy:          -14.56835580  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56835580  Hartree
+         HF Energy:        -14.56835580  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      4.720090812
+           2.761600000      2.945274846
+           1.423600000      1.841868753
+           0.908400000      0.720921173
+
+ change in energy after optimization step:  -0.00013091 Hartree
+
+ *******************************************
+ ********** Optimization step  15 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.61774925          -13.61774925         -13.61774925
+   2           -14.56073512          -14.56073512          -0.94298587
+   3           -14.56822876          -14.56822876          -0.00749364
+   4           -14.56839458          -14.56839458          -0.00016582
+   5           -14.56839843          -14.56839843          -0.00000385
+
+ Final single point energy:          -14.56839843  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56839843  Hartree
+         HF Energy:        -14.56839843  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      4.738473205
+           2.761600000      2.932650366
+           1.423600000      1.742625040
+           0.908400000      0.722619019
+
+ change in energy after optimization step:  -0.00004264 Hartree
+
+ *******************************************
+ ********** Optimization step  16 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.61041693          -13.61041693         -13.61041693
+   2           -14.56082776          -14.56082776          -0.95041083
+   3           -14.56825750          -14.56825750          -0.00742974
+   4           -14.56841959          -14.56841959          -0.00016209
+   5           -14.56842330          -14.56842330          -0.00000371
+
+ Final single point energy:          -14.56842330  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56842330  Hartree
+         HF Energy:        -14.56842330  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      4.769349963
+           2.761600000      2.941900750
+           1.423600000      1.765732341
+           0.908400000      0.722498574
+
+ change in energy after optimization step:  -0.00002486 Hartree
+
+ *******************************************
+ ********** Optimization step  17 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.57433565          -13.57433565         -13.57433565
+   2           -14.56112273          -14.56112273          -0.98678708
+   3           -14.56821935          -14.56821935          -0.00709662
+   4           -14.56836227          -14.56836227          -0.00014292
+   5           -14.56836528          -14.56836528          -0.00000301
+
+ Final single point energy:          -14.56836528  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56836528  Hartree
+         HF Energy:        -14.56836528  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      4.877215517
+           2.761600000      2.955786278
+           1.423600000      1.928033585
+           0.908400000      0.722375914
+
+ change in energy after optimization step:   0.00005802 Hartree
+
+ *******************************************
+ ********** Optimization step  18 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.60013453          -13.60013453         -13.60013453
+   2           -14.56097906          -14.56097906          -0.96084453
+   3           -14.56831068          -14.56831068          -0.00733162
+   4           -14.56846713          -14.56846713          -0.00015645
+   5           -14.56847063          -14.56847063          -0.00000350
+
+ Final single point energy:          -14.56847063  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56847063  Hartree
+         HF Energy:        -14.56847063  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      4.886806586
+           2.761600000      2.970399525
+           1.423600000      1.783452044
+           0.908400000      0.722360081
+
+ change in energy after optimization step:  -0.00010535 Hartree
+
+ *******************************************
+ ********** Optimization step  19 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.59768800          -13.59768800         -13.59768800
+   2           -14.56104580          -14.56104580          -0.96335780
+   3           -14.56834180          -14.56834180          -0.00729600
+   4           -14.56849717          -14.56849717          -0.00015537
+   5           -14.56850064          -14.56850064          -0.00000347
+
+ Final single point energy:          -14.56850064  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56850064  Hartree
+         HF Energy:        -14.56850064  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      4.879982379
+           2.761600000      3.044512407
+           1.423600000      1.750981910
+           0.908400000      0.722367902
+
+ change in energy after optimization step:  -0.00003001 Hartree
+
+ *******************************************
+ ********** Optimization step  20 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.59712289          -13.59712289         -13.59712289
+   2           -14.56105369          -14.56105369          -0.96393079
+   3           -14.56834831          -14.56834831          -0.00729462
+   4           -14.56850339          -14.56850339          -0.00015508
+   5           -14.56850684          -14.56850684          -0.00000345
+
+ Final single point energy:          -14.56850684  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56850684  Hartree
+         HF Energy:        -14.56850684  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      4.885850353
+           2.761600000      3.030887797
+           1.423600000      1.760890773
+           0.908400000      0.722372803
+
+ change in energy after optimization step:  -0.00000621 Hartree
+
+ *******************************************
+ ********** Optimization step  21 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.59549320          -13.59549320         -13.59549320
+   2           -14.56107972          -14.56107972          -0.96558652
+   3           -14.56835894          -14.56835894          -0.00727922
+   4           -14.56851317          -14.56851317          -0.00015423
+   5           -14.56851659          -14.56851659          -0.00000342
+
+ Final single point energy:          -14.56851659  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56851659  Hartree
+         HF Energy:        -14.56851659  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      4.903921396
+           2.761600000      3.037188051
+           1.423600000      1.762679427
+           0.908400000      0.722385711
+
+ change in energy after optimization step:  -0.00000975 Hartree
+
+ *******************************************
+ ********** Optimization step  22 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   1 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.59132855          -13.59132855         -13.59132855
+   2           -14.56113987          -14.56113987          -0.96981132
+   3           -14.56837486          -14.56837486          -0.00723499
+   4           -14.56852642          -14.56852642          -0.00015155
+   5           -14.56852974          -14.56852974          -0.00000332
+
+ Final single point energy:          -14.56852974  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56852974  Hartree
+         HF Energy:        -14.56852974  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.032316040
+           2.761600000      3.044439714
+           1.423600000      1.764657937
+           0.908400000      0.722385781
+
+ change in energy after optimization step:  -0.00001315 Hartree
+
+ *******************************************
+ ********** Optimization step  23 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.59143516          -13.59143516         -13.59143516
+   2           -14.56114933          -14.56114933          -0.96971417
+   3           -14.56838796          -14.56838796          -0.00723863
+   4           -14.56853989          -14.56853989          -0.00015192
+   5           -14.56854323          -14.56854323          -0.00000334
+
+ Final single point energy:          -14.56854323  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56854323  Hartree
+         HF Energy:        -14.56854323  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      4.978686325
+           2.761600000      3.051109010
+           1.423600000      1.765293608
+           0.908400000      0.722385854
+
+ change in energy after optimization step:  -0.00001349 Hartree
+
+ *******************************************
+ ********** Optimization step  24 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.53373961          -13.53373961         -13.53373961
+   2           -14.55976545          -14.55976545          -1.02602584
+   3           -14.56648686          -14.56648686          -0.00672142
+   4           -14.56661440          -14.56661440          -0.00012753
+   5           -14.56661692          -14.56661692          -0.00000252
+
+ Final single point energy:          -14.56661692  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56661692  Hartree
+         HF Energy:        -14.56661692  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      4.990778615
+           2.761600000      3.529587100
+           1.423600000      1.765940299
+           0.908400000      0.722385927
+
+ change in energy after optimization step:   0.00192630 Hartree
+
+ *******************************************
+ ********** Optimization step  25 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.58538689          -13.58538689         -13.58538689
+   2           -14.56122816          -14.56122816          -0.97584127
+   3           -14.56840925          -14.56840925          -0.00718110
+   4           -14.56855832          -14.56855832          -0.00014906
+   5           -14.56856156          -14.56856156          -0.00000324
+
+ Final single point energy:          -14.56856156  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56856156  Hartree
+         HF Energy:        -14.56856156  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.003446747
+           2.761600000      3.091541088
+           1.423600000      1.765932034
+           0.908400000      0.722385930
+
+ change in energy after optimization step:  -0.00194463 Hartree
+
+ *******************************************
+ ********** Optimization step  26 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.58528330          -13.58528330         -13.58528330
+   2           -14.56123038          -14.56123038          -0.97594708
+   3           -14.56841031          -14.56841031          -0.00717993
+   4           -14.56855931          -14.56855931          -0.00014900
+   5           -14.56856255          -14.56856255          -0.00000324
+
+ Final single point energy:          -14.56856255  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56856255  Hartree
+         HF Energy:        -14.56856255  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.006060903
+           2.761600000      3.092210469
+           1.423600000      1.765737043
+           0.908400000      0.722385978
+
+ change in energy after optimization step:  -0.00000099 Hartree
+
+ *******************************************
+ ********** Optimization step  27 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.58294380          -13.58294380         -13.58294380
+   2           -14.56126576          -14.56126576          -0.97832196
+   3           -14.56841897          -14.56841897          -0.00715321
+   4           -14.56856633          -14.56856633          -0.00014736
+   5           -14.56856950          -14.56856950          -0.00000318
+
+ Final single point energy:          -14.56856950  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56856950  Hartree
+         HF Energy:        -14.56856950  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.107718989
+           2.761600000      3.092887309
+           1.423600000      1.765880429
+           0.908400000      0.722385977
+
+ change in energy after optimization step:  -0.00000696 Hartree
+
+ *******************************************
+ ********** Optimization step  28 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.58365446          -13.58365446         -13.58365446
+   2           -14.56126198          -14.56126198          -0.97760753
+   3           -14.56842377          -14.56842377          -0.00716179
+   4           -14.56857168          -14.56857168          -0.00014791
+   5           -14.56857488          -14.56857488          -0.00000320
+
+ Final single point energy:          -14.56857488  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56857488  Hartree
+         HF Energy:        -14.56857488  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.068266200
+           2.761600000      3.093832065
+           1.423600000      1.765960452
+           0.908400000      0.722385978
+
+ change in energy after optimization step:  -0.00000537 Hartree
+
+ *******************************************
+ ********** Optimization step  29 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.57341103          -13.57341103         -13.57341103
+   2           -14.56133887          -14.56133887          -0.98792784
+   3           -14.56840615          -14.56840615          -0.00706729
+   4           -14.56854959          -14.56854959          -0.00014343
+   5           -14.56855263          -14.56855263          -0.00000305
+
+ Final single point energy:          -14.56855263  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56855263  Hartree
+         HF Energy:        -14.56855263  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.069624475
+           2.761600000      3.172155780
+           1.423600000      1.765910521
+           0.908400000      0.722385980
+
+ change in energy after optimization step:   0.00002224 Hartree
+
+ *******************************************
+ ********** Optimization step  30 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.57994571          -13.57994571         -13.57994571
+   2           -14.56130755          -14.56130755          -0.98136184
+   3           -14.56843474          -14.56843474          -0.00712719
+   4           -14.56858100          -14.56858100          -0.00014626
+   5           -14.56858414          -14.56858414          -0.00000314
+
+ Final single point energy:          -14.56858414  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56858414  Hartree
+         HF Energy:        -14.56858414  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.070997488
+           2.761600000      3.121628060
+           1.423600000      1.765865720
+           0.908400000      0.722385981
+
+ change in energy after optimization step:  -0.00003150 Hartree
+
+ *******************************************
+ ********** Optimization step  31 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.58018793          -13.58018793         -13.58018793
+   2           -14.56130600          -14.56130600          -0.98111807
+   3           -14.56843489          -14.56843489          -0.00712889
+   4           -14.56858125          -14.56858125          -0.00014636
+   5           -14.56858440          -14.56858440          -0.00000314
+
+ Final single point energy:          -14.56858440  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56858440  Hartree
+         HF Energy:        -14.56858440  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.071817052
+           2.761600000      3.121855264
+           1.423600000      1.764512621
+           0.908400000      0.722385984
+
+ change in energy after optimization step:  -0.00000026 Hartree
+
+ *******************************************
+ ********** Optimization step  32 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.57830832          -13.57830832         -13.57830832
+   2           -14.56133468          -14.56133468          -0.98302636
+   3           -14.56844266          -14.56844266          -0.00710798
+   4           -14.56858776          -14.56858776          -0.00014510
+   5           -14.56859086          -14.56859086          -0.00000310
+
+ Final single point energy:          -14.56859086  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56859086  Hartree
+         HF Energy:        -14.56859086  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.146529756
+           2.761600000      3.122083975
+           1.423600000      1.765488960
+           0.908400000      0.722385985
+
+ change in energy after optimization step:  -0.00000646 Hartree
+
+ *******************************************
+ ********** Optimization step  33 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.57855364          -13.57855364         -13.57855364
+   2           -14.56133238          -14.56133238          -0.98277875
+   3           -14.56844401          -14.56844401          -0.00711163
+   4           -14.56858935          -14.56858935          -0.00014533
+   5           -14.56859245          -14.56859245          -0.00000311
+
+ Final single point energy:          -14.56859245  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56859245  Hartree
+         HF Energy:        -14.56859245  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.125008904
+           2.761600000      3.122604033
+           1.423600000      1.766211200
+           0.908400000      0.722385995
+
+ change in energy after optimization step:  -0.00000159 Hartree
+
+ *******************************************
+ ********** Optimization step  34 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.57102491          -13.57102491         -13.57102491
+   2           -14.56139474          -14.56139474          -0.99036983
+   3           -14.56843699          -14.56843699          -0.00704225
+   4           -14.56857907          -14.56857907          -0.00014208
+   5           -14.56858207          -14.56858207          -0.00000300
+
+ Final single point energy:          -14.56858207  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56858207  Hartree
+         HF Energy:        -14.56858207  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.125904106
+           2.761600000      3.180975596
+           1.423600000      1.765749990
+           0.908400000      0.722386006
+
+ change in energy after optimization step:   0.00001039 Hartree
+
+ *******************************************
+ ********** Optimization step  35 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.57572049          -13.57572049         -13.57572049
+   2           -14.56136659          -14.56136659          -0.98564610
+   3           -14.56845170          -14.56845170          -0.00708511
+   4           -14.56859579          -14.56859579          -0.00014409
+   5           -14.56859886          -14.56859886          -0.00000307
+
+ Final single point energy:          -14.56859886  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56859886  Hartree
+         HF Energy:        -14.56859886  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.126807142
+           2.761600000      3.145068612
+           1.423600000      1.765468546
+           0.908400000      0.722386021
+
+ change in energy after optimization step:  -0.00001679 Hartree
+
+ *******************************************
+ ********** Optimization step  36 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.57592832          -13.57592832         -13.57592832
+   2           -14.56136518          -14.56136518          -0.98543686
+   3           -14.56845176          -14.56845176          -0.00708658
+   4           -14.56859594          -14.56859594          -0.00014418
+   5           -14.56859901          -14.56859901          -0.00000307
+
+ Final single point energy:          -14.56859901  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56859901  Hartree
+         HF Energy:        -14.56859901  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.127405836
+           2.761600000      3.145273978
+           1.423600000      1.764295609
+           0.908400000      0.722386078
+
+ change in energy after optimization step:  -0.00000015 Hartree
+
+ *******************************************
+ ********** Optimization step  37 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.57386633          -13.57386633         -13.57386633
+   2           -14.56139178          -14.56139178          -0.98752545
+   3           -14.56845516          -14.56845516          -0.00706338
+   4           -14.56859796          -14.56859796          -0.00014280
+   5           -14.56860098          -14.56860098          -0.00000302
+
+ Final single point energy:          -14.56860098  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56860098  Hartree
+         HF Energy:        -14.56860098  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.211028831
+           2.761600000      3.145480521
+           1.423600000      1.765269124
+           0.908400000      0.722386107
+
+ change in energy after optimization step:  -0.00000197 Hartree
+
+ *******************************************
+ ********** Optimization step  38 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.57453693          -13.57453693         -13.57453693
+   2           -14.56138650          -14.56138650          -0.98684957
+   3           -14.56845824          -14.56845824          -0.00707174
+   4           -14.56860154          -14.56860154          -0.00014330
+   5           -14.56860458          -14.56860458          -0.00000304
+
+ Final single point energy:          -14.56860458  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56860458  Hartree
+         HF Energy:        -14.56860458  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.174068328
+           2.761600000      3.145723039
+           1.423600000      1.765742826
+           0.908400000      0.722386243
+
+ change in energy after optimization step:  -0.00000360 Hartree
+
+ *******************************************
+ ********** Optimization step  39 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   1 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.57135453          -13.57135453         -13.57135453
+   2           -14.56142108          -14.56142108          -0.99006655
+   3           -14.56846349          -14.56846349          -0.00704241
+   4           -14.56860542          -14.56860542          -0.00014194
+   5           -14.56860841          -14.56860841          -0.00000299
+
+ Final single point energy:          -14.56860841  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56860841  Hartree
+         HF Energy:        -14.56860841  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.174312146
+           2.761600000      3.170402047
+           1.423600000      1.765514942
+           0.908400000      0.722386506
+
+ change in energy after optimization step:  -0.00000383 Hartree
+
+ *******************************************
+ ********** Optimization step  40 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.57223559          -13.57223559         -13.57223559
+   2           -14.56141330          -14.56141330          -0.98917771
+   3           -14.56846371          -14.56846371          -0.00705041
+   4           -14.56860602          -14.56860602          -0.00014231
+   5           -14.56860903          -14.56860903          -0.00000300
+
+ Final single point energy:          -14.56860903  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56860903  Hartree
+         HF Energy:        -14.56860903  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.174557132
+           2.761600000      3.163993500
+           1.423600000      1.765270531
+           0.908400000      0.722390157
+
+ change in energy after optimization step:  -0.00000061 Hartree
+
+ *******************************************
+ ********** Optimization step  41 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.57235156          -13.57235156         -13.57235156
+   2           -14.56141248          -14.56141248          -0.98906092
+   3           -14.56846380          -14.56846380          -0.00705132
+   4           -14.56860616          -14.56860616          -0.00014236
+   5           -14.56860917          -14.56860917          -0.00000301
+
+ Final single point energy:          -14.56860917  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56860917  Hartree
+         HF Energy:        -14.56860917  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.175263764
+           2.761600000      3.164250806
+           1.423600000      1.764525246
+           0.908400000      0.722413248
+
+ change in energy after optimization step:  -0.00000015 Hartree
+
+ *******************************************
+ ********** Optimization step  42 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.56973465          -13.56973465         -13.56973465
+   2           -14.56143640          -14.56143640          -0.99170175
+   3           -14.56845758          -14.56845758          -0.00702117
+   4           -14.56859816          -14.56859816          -0.00014058
+   5           -14.56860110          -14.56860110          -0.00000294
+
+ Final single point energy:          -14.56860110  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56860110  Hartree
+         HF Energy:        -14.56860110  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.288039905
+           2.761600000      3.164509616
+           1.423600000      1.765206669
+           0.908400000      0.722418743
+
+ change in energy after optimization step:   0.00000807 Hartree
+
+ *******************************************
+ ********** Optimization step  43 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.57122589          -13.57122589         -13.57122589
+   2           -14.56142949          -14.56142949          -0.99020360
+   3           -14.56846853          -14.56846853          -0.00703904
+   4           -14.56861016          -14.56861016          -0.00014164
+   5           -14.56861314          -14.56861314          -0.00000298
+
+ Final single point energy:          -14.56861314  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56861314  Hartree
+         HF Energy:        -14.56861314  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.216536514
+           2.761600000      3.164647348
+           1.423600000      1.765364030
+           0.908400000      0.722427522
+
+ change in energy after optimization step:  -0.00001204 Hartree
+
+ *******************************************
+ ********** Optimization step  44 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   2 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.57014927          -13.57014927         -13.57014927
+   2           -14.56144212          -14.56144212          -0.99129284
+   3           -14.56847155          -14.56847155          -0.00702943
+   4           -14.56861273          -14.56861273          -0.00014118
+   5           -14.56861570          -14.56861570          -0.00000297
+
+ Final single point energy:          -14.56861570  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56861570  Hartree
+         HF Energy:        -14.56861570  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.216276930
+           2.761600000      3.173092245
+           1.423600000      1.765358377
+           0.908400000      0.722472585
+
+ change in energy after optimization step:  -0.00000255 Hartree
+
+ *******************************************
+ ********** Optimization step  45 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.57452264          -13.57452264         -13.57452264
+   2           -14.56126907          -14.56126907          -0.98674642
+   3           -14.56840731          -14.56840731          -0.00713824
+   4           -14.56855096          -14.56855096          -0.00014365
+   5           -14.56855398          -14.56855398          -0.00000302
+
+ Final single point energy:          -14.56855398  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56855398  Hartree
+         HF Energy:        -14.56855398  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.216533081
+           2.761600000      3.179889828
+           1.423600000      1.765352452
+           0.908400000      0.734680004
+
+ change in energy after optimization step:   0.00006172 Hartree
+
+ *******************************************
+ ********** Optimization step  46 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.56887061          -13.56887061         -13.56887061
+   2           -14.56145362          -14.56145362          -0.99258301
+   3           -14.56847276          -14.56847276          -0.00701913
+   4           -14.56861340          -14.56861340          -0.00014064
+   5           -14.56861635          -14.56861635          -0.00000295
+
+ Final single point energy:          -14.56861635  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56861635  Hartree
+         HF Energy:        -14.56861635  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.217345931
+           2.761600000      3.183606248
+           1.423600000      1.765346457
+           0.908400000      0.722722822
+
+ change in energy after optimization step:  -0.00006236 Hartree
+
+ *******************************************
+ ********** Optimization step  47 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   1 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.56906010          -13.56906010         -13.56906010
+   2           -14.56145252          -14.56145252          -0.99239242
+   3           -14.56847324          -14.56847324          -0.00702072
+   4           -14.56861395          -14.56861395          -0.00014071
+   5           -14.56861690          -14.56861690          -0.00000295
+
+ Final single point energy:          -14.56861690  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56861690  Hartree
+         HF Energy:        -14.56861690  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.219880995
+           2.761600000      3.181714840
+           1.423600000      1.765346263
+           0.908400000      0.722722547
+
+ change in energy after optimization step:  -0.00000055 Hartree
+
+ *******************************************
+ ********** Optimization step  48 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.56861127          -13.56861127         -13.56861127
+   2           -14.56145957          -14.56145957          -0.99284829
+   3           -14.56847539          -14.56847539          -0.00701582
+   4           -14.56861583          -14.56861583          -0.00014044
+   5           -14.56861877          -14.56861877          -0.00000294
+
+ Final single point energy:          -14.56861877  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56861877  Hartree
+         HF Energy:        -14.56861877  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.233239629
+           2.761600000      3.182920337
+           1.423600000      1.765345153
+           0.908400000      0.722722269
+
+ change in energy after optimization step:  -0.00000187 Hartree
+
+ *******************************************
+ ********** Optimization step  49 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.56769711          -13.56769711         -13.56769711
+   2           -14.56147246          -14.56147246          -0.99377535
+   3           -14.56847802          -14.56847802          -0.00700556
+   4           -14.56861789          -14.56861789          -0.00013986
+   5           -14.56862081          -14.56862081          -0.00000292
+
+ Final single point energy:          -14.56862081  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56862081  Hartree
+         HF Energy:        -14.56862081  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.265185170
+           2.761600000      3.184611736
+           1.423600000      1.765344098
+           0.908400000      0.722721888
+
+ change in energy after optimization step:  -0.00000204 Hartree
+
+ *******************************************
+ ********** Optimization step  50 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.56673468          -13.56673468         -13.56673468
+   2           -14.56148337          -14.56148337          -0.99474869
+   3           -14.56848024          -14.56848024          -0.00699687
+   4           -14.56861972          -14.56861972          -0.00013947
+   5           -14.56862262          -14.56862262          -0.00000291
+
+ Final single point energy:          -14.56862262  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56862262  Hartree
+         HF Energy:        -14.56862262  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.262780882
+           2.761600000      3.192427945
+           1.423600000      1.765341815
+           0.908400000      0.722721770
+
+ change in energy after optimization step:  -0.00000182 Hartree
+
+ *******************************************
+ ********** Optimization step  51 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.56599554          -13.56599554         -13.56599554
+   2           -14.56149111          -14.56149111          -0.99549558
+   3           -14.56848108          -14.56848108          -0.00698997
+   4           -14.56862023          -14.56862023          -0.00013915
+   5           -14.56862313          -14.56862313          -0.00000290
+
+ Final single point energy:          -14.56862313  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56862313  Hartree
+         HF Energy:        -14.56862313  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.264942416
+           2.761600000      3.197797581
+           1.423600000      1.765327197
+           0.908400000      0.722721825
+
+ change in energy after optimization step:  -0.00000050 Hartree
+
+ *******************************************
+ ********** Optimization step  52 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.60114280          -13.60114280         -13.60114280
+   2           -14.56113095          -14.56113095          -0.95998815
+   3           -14.56834377          -14.56834377          -0.00721282
+   4           -14.56849679          -14.56849679          -0.00015303
+   5           -14.56850020          -14.56850020          -0.00000340
+
+ Final single point energy:          -14.56850020  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56850020  Hartree
+         HF Energy:        -14.56850020  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.271021312
+           2.761600000      3.200470848
+           1.423600000      1.617812632
+           0.908400000      0.722721881
+
+ change in energy after optimization step:   0.00012293 Hartree
+
+ *******************************************
+ ********** Optimization step  53 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.56517023          -13.56517023         -13.56517023
+   2           -14.56150092          -14.56150092          -0.99633069
+   3           -14.56848207          -14.56848207          -0.00698115
+   4           -14.56862083          -14.56862083          -0.00013876
+   5           -14.56862371          -14.56862371          -0.00000288
+
+ Final single point energy:          -14.56862371  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56862371  Hartree
+         HF Energy:        -14.56862371  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.273829775
+           2.761600000      3.206372744
+           1.423600000      1.762965929
+           0.908400000      0.722721882
+
+ change in energy after optimization step:  -0.00012352 Hartree
+
+ *******************************************
+ ********** Optimization step  54 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   1 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.56559677          -13.56559677         -13.56559677
+   2           -14.56149806          -14.56149806          -0.99590129
+   3           -14.56848282          -14.56848282          -0.00698477
+   4           -14.56862174          -14.56862174          -0.00013892
+   5           -14.56862463          -14.56862463          -0.00000289
+
+ Final single point energy:          -14.56862463  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56862463  Hartree
+         HF Energy:        -14.56862463  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.277475641
+           2.761600000      3.202744170
+           1.423600000      1.762785587
+           0.908400000      0.722721898
+
+ change in energy after optimization step:  -0.00000091 Hartree
+
+ *******************************************
+ ********** Optimization step  55 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   1 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.56524514          -13.56524514         -13.56524514
+   2           -14.56150297          -14.56150297          -0.99625782
+   3           -14.56848401          -14.56848401          -0.00698105
+   4           -14.56862273          -14.56862273          -0.00013872
+   5           -14.56862561          -14.56862561          -0.00000288
+
+ Final single point energy:          -14.56862561  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56862561  Hartree
+         HF Energy:        -14.56862561  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.286303522
+           2.761600000      3.203843444
+           1.423600000      1.762871857
+           0.908400000      0.722722101
+
+ change in energy after optimization step:  -0.00000098 Hartree
+
+ *******************************************
+ ********** Optimization step  56 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.56430822          -13.56430822         -13.56430822
+   2           -14.56151569          -14.56151569          -0.99720747
+   3           -14.56848609          -14.56848609          -0.00697040
+   4           -14.56862421          -14.56862421          -0.00013812
+   5           -14.56862707          -14.56862707          -0.00000286
+
+ Final single point energy:          -14.56862707  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56862707  Hartree
+         HF Energy:        -14.56862707  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.320984298
+           2.761600000      3.205143654
+           1.423600000      1.762973003
+           0.908400000      0.722722547
+
+ change in energy after optimization step:  -0.00000146 Hartree
+
+ *******************************************
+ ********** Optimization step  57 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.56408243          -13.56408243         -13.56408243
+   2           -14.56151803          -14.56151803          -0.99743561
+   3           -14.56848688          -14.56848688          -0.00696884
+   4           -14.56862495          -14.56862495          -0.00013807
+   5           -14.56862780          -14.56862780          -0.00000286
+
+ Final single point energy:          -14.56862780  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56862780  Hartree
+         HF Energy:        -14.56862780  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.313370392
+           2.761600000      3.208032730
+           1.423600000      1.763052171
+           0.908400000      0.722725453
+
+ change in energy after optimization step:  -0.00000073 Hartree
+
+ *******************************************
+ ********** Optimization step  58 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   1 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.56223129          -13.56223129         -13.56223129
+   2           -14.56153620          -14.56153620          -0.99930491
+   3           -14.56848794          -14.56848794          -0.00695173
+   4           -14.56862521          -14.56862521          -0.00013727
+   5           -14.56862804          -14.56862804          -0.00000283
+
+ Final single point energy:          -14.56862804  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56862804  Hartree
+         HF Energy:        -14.56862804  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.317459189
+           2.761600000      3.221762052
+           1.423600000      1.763019405
+           0.908400000      0.722734187
+
+ change in energy after optimization step:  -0.00000024 Hartree
+
+ *******************************************
+ ********** Optimization step  59 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   1 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.56284567          -13.56284567         -13.56284567
+   2           -14.56153162          -14.56153162          -0.99868595
+   3           -14.56848880          -14.56848880          -0.00695718
+   4           -14.56862630          -14.56862630          -0.00013750
+   5           -14.56862914          -14.56862914          -0.00000284
+
+ Final single point energy:          -14.56862914  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56862914  Hartree
+         HF Energy:        -14.56862914  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.322636349
+           2.761600000      3.216238875
+           1.423600000      1.763021646
+           0.908400000      0.722765205
+
+ change in energy after optimization step:  -0.00000110 Hartree
+
+ *******************************************
+ ********** Optimization step  60 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   1 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.56258103          -13.56258103         -13.56258103
+   2           -14.56153385          -14.56153385          -0.99895283
+   3           -14.56848941          -14.56848941          -0.00695556
+   4           -14.56862678          -14.56862678          -0.00013736
+   5           -14.56862961          -14.56862961          -0.00000283
+
+ Final single point energy:          -14.56862961  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56862961  Hartree
+         HF Energy:        -14.56862961  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.328092384
+           2.761600000      3.218122032
+           1.423600000      1.763019711
+           0.908400000      0.722971967
+
+ change in energy after optimization step:  -0.00000048 Hartree
+
+ *******************************************
+ ********** Optimization step  61 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55896814          -13.55896814         -13.55896814
+   2           -14.56154914          -14.56154914          -1.00258100
+   3           -14.56846090          -14.56846090          -0.00691177
+   4           -14.56859584          -14.56859584          -0.00013493
+   5           -14.56859859          -14.56859859          -0.00000275
+
+ Final single point energy:          -14.56859859  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56859859  Hartree
+         HF Energy:        -14.56859859  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.486028210
+           2.761600000      3.220092732
+           1.423600000      1.763021581
+           0.908400000      0.722843537
+
+ change in energy after optimization step:   0.00003103 Hartree
+
+ *******************************************
+ ********** Optimization step  62 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   1 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.56178557          -13.56178557         -13.56178557
+   2           -14.56154472          -14.56154472          -0.99975915
+   3           -14.56849109          -14.56849109          -0.00694637
+   4           -14.56862799          -14.56862799          -0.00013690
+   5           -14.56863081          -14.56863081          -0.00000282
+
+ Final single point energy:          -14.56863081  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863081  Hartree
+         HF Energy:        -14.56863081  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.349770835
+           2.761600000      3.220319477
+           1.423600000      1.763021481
+           0.908400000      0.722870309
+
+ change in energy after optimization step:  -0.00003222 Hartree
+
+ *******************************************
+ ********** Optimization step  63 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.56155139          -13.56155139         -13.56155139
+   2           -14.56154724          -14.56154724          -0.99999585
+   3           -14.56849150          -14.56849150          -0.00694426
+   4           -14.56862828          -14.56862828          -0.00013678
+   5           -14.56863110          -14.56863110          -0.00000282
+
+ Final single point energy:          -14.56863110  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863110  Hartree
+         HF Energy:        -14.56863110  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.354130889
+           2.761600000      3.221617052
+           1.423600000      1.763021215
+           0.908400000      0.722926701
+
+ change in energy after optimization step:  -0.00000029 Hartree
+
+ *******************************************
+ ********** Optimization step  64 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.56074918          -13.56074918         -13.56074918
+   2           -14.56155678          -14.56155678          -1.00080760
+   3           -14.56849266          -14.56849266          -0.00693587
+   4           -14.56862901          -14.56862901          -0.00013635
+   5           -14.56863181          -14.56863181          -0.00000280
+
+ Final single point energy:          -14.56863181  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863181  Hartree
+         HF Energy:        -14.56863181  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.370183836
+           2.761600000      3.225162955
+           1.423600000      1.763020425
+           0.908400000      0.722919532
+
+ change in energy after optimization step:  -0.00000071 Hartree
+
+ *******************************************
+ ********** Optimization step  65 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.56056211          -13.56056211         -13.56056211
+   2           -14.56155827          -14.56155827          -1.00099616
+   3           -14.56849296          -14.56849296          -0.00693468
+   4           -14.56862927          -14.56862927          -0.00013632
+   5           -14.56863207          -14.56863207          -0.00000280
+
+ Final single point energy:          -14.56863207  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863207  Hartree
+         HF Energy:        -14.56863207  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.362543882
+           2.761600000      3.227900157
+           1.423600000      1.763018130
+           0.908400000      0.722925374
+
+ change in energy after optimization step:  -0.00000026 Hartree
+
+ *******************************************
+ ********** Optimization step  66 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55874530          -13.55874530         -13.55874530
+   2           -14.56157507          -14.56157507          -1.00282978
+   3           -14.56849284          -14.56849284          -0.00691776
+   4           -14.56862836          -14.56862836          -0.00013553
+   5           -14.56863114          -14.56863114          -0.00000277
+
+ Final single point energy:          -14.56863114  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863114  Hartree
+         HF Energy:        -14.56863114  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.368632336
+           2.761600000      3.241082891
+           1.423600000      1.763010756
+           0.908400000      0.722933690
+
+ change in energy after optimization step:   0.00000094 Hartree
+
+ *******************************************
+ ********** Optimization step  67 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55963938          -13.55963938         -13.55963938
+   2           -14.56156897          -14.56156897          -1.00192959
+   3           -14.56849433          -14.56849433          -0.00692536
+   4           -14.56863018          -14.56863018          -0.00013585
+   5           -14.56863296          -14.56863296          -0.00000278
+
+ Final single point energy:          -14.56863296  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863296  Hartree
+         HF Energy:        -14.56863296  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.377244031
+           2.761600000      3.232721816
+           1.423600000      1.762991694
+           0.908400000      0.722936424
+
+ change in energy after optimization step:  -0.00000183 Hartree
+
+ *******************************************
+ ********** Optimization step  68 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55933204          -13.55933204         -13.55933204
+   2           -14.56157239          -14.56157239          -1.00224035
+   3           -14.56849469          -14.56849469          -0.00692230
+   4           -14.56863040          -14.56863040          -0.00013571
+   5           -14.56863318          -14.56863318          -0.00000278
+
+ Final single point energy:          -14.56863318  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863318  Hartree
+         HF Energy:        -14.56863318  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.380220959
+           2.761600000      3.235109209
+           1.423600000      1.762683115
+           0.908400000      0.722941321
+
+ change in energy after optimization step:  -0.00000021 Hartree
+
+ *******************************************
+ ********** Optimization step  69 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55849036          -13.55849036         -13.55849036
+   2           -14.56158214          -14.56158214          -1.00309179
+   3           -14.56849557          -14.56849557          -0.00691342
+   4           -14.56863087          -14.56863087          -0.00013530
+   5           -14.56863363          -14.56863363          -0.00000277
+
+ Final single point energy:          -14.56863363  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863363  Hartree
+         HF Energy:        -14.56863363  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.392156756
+           2.761600000      3.242201145
+           1.423600000      1.761048075
+           0.908400000      0.722948091
+
+ change in energy after optimization step:  -0.00000046 Hartree
+
+ *******************************************
+ ********** Optimization step  70 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55574099          -13.55574099         -13.55574099
+   2           -14.56161099          -14.56161099          -1.00587000
+   3           -14.56849757          -14.56849757          -0.00688658
+   4           -14.56863152          -14.56863152          -0.00013396
+   5           -14.56863424          -14.56863424          -0.00000272
+
+ Final single point energy:          -14.56863424  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863424  Hartree
+         HF Energy:        -14.56863424  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.426788550
+           2.761600000      3.257066761
+           1.423600000      1.761777636
+           0.908400000      0.723005396
+
+ change in energy after optimization step:  -0.00000061 Hartree
+
+ *******************************************
+ ********** Optimization step  71 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.54913601          -13.54913601         -13.54913601
+   2           -14.56168192          -14.56168192          -1.01254592
+   3           -14.56849993          -14.56849993          -0.00681800
+   4           -14.56863029          -14.56863029          -0.00013037
+   5           -14.56863289          -14.56863289          -0.00000260
+
+ Final single point energy:          -14.56863289  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863289  Hartree
+         HF Energy:        -14.56863289  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.565539697
+           2.761600000      3.275912317
+           1.423600000      1.769012791
+           0.908400000      0.722962274
+
+ change in energy after optimization step:   0.00000135 Hartree
+
+ *******************************************
+ ********** Optimization step  72 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   0 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55245033          -13.55245033         -13.55245033
+   2           -14.56164855          -14.56164855          -1.00919823
+   3           -14.56850100          -14.56850100          -0.00685245
+   4           -14.56863325          -14.56863325          -0.00013224
+   5           -14.56863591          -14.56863591          -0.00000266
+
+ Final single point energy:          -14.56863591  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863591  Hartree
+         HF Energy:        -14.56863591  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.487344309
+           2.761600000      3.271899135
+           1.423600000      1.762415630
+           0.908400000      0.722969878
+
+ change in energy after optimization step:  -0.00000302 Hartree
+
+ *******************************************
+ ********** Optimization step  73 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   1 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55199041          -13.55199041         -13.55199041
+   2           -14.56165504          -14.56165504          -1.00966462
+   3           -14.56850182          -14.56850182          -0.00684679
+   4           -14.56863375          -14.56863375          -0.00013193
+   5           -14.56863640          -14.56863640          -0.00000265
+
+ Final single point energy:          -14.56863640  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863640  Hartree
+         HF Energy:        -14.56863640  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.509878126
+           2.761600000      3.272381641
+           1.423600000      1.762163085
+           0.908400000      0.723003624
+
+ change in energy after optimization step:  -0.00000049 Hartree
+
+ *******************************************
+ ********** Optimization step  74 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   2 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55347665          -13.55347665         -13.55347665
+   2           -14.56164200          -14.56164200          -1.00816534
+   3           -14.56850084          -14.56850084          -0.00685884
+   4           -14.56863346          -14.56863346          -0.00013262
+   5           -14.56863613          -14.56863613          -0.00000268
+
+ Final single point energy:          -14.56863613  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863613  Hartree
+         HF Energy:        -14.56863613  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.506853281
+           2.761600000      3.272345677
+           1.423600000      1.754775719
+           0.908400000      0.723043166
+
+ change in energy after optimization step:   0.00000027 Hartree
+
+ *******************************************
+ ********** Optimization step  75 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   2 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55217276          -13.55217276         -13.55217276
+   2           -14.56165292          -14.56165292          -1.00948016
+   3           -14.56850174          -14.56850174          -0.00684882
+   4           -14.56863376          -14.56863376          -0.00013202
+   5           -14.56863642          -14.56863642          -0.00000266
+
+ Final single point energy:          -14.56863642  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863642  Hartree
+         HF Energy:        -14.56863642  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.506592876
+           2.761600000      3.272050475
+           1.423600000      1.761891204
+           0.908400000      0.723047008
+
+ change in energy after optimization step:  -0.00000028 Hartree
+
+ *******************************************
+ ********** Optimization step  76 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   3 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55222740          -13.55222740         -13.55222740
+   2           -14.56165237          -14.56165237          -1.00942497
+   3           -14.56850171          -14.56850171          -0.00684934
+   4           -14.56863376          -14.56863376          -0.00013205
+   5           -14.56863642          -14.56863642          -0.00000266
+
+ Final single point energy:          -14.56863642  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863642  Hartree
+         HF Energy:        -14.56863642  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.506196092
+           2.761600000      3.272176940
+           1.423600000      1.761595639
+           0.908400000      0.723061152
+
+ change in energy after optimization step:  -0.00000000 Hartree
+
+ *******************************************
+ ********** Optimization step  77 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   3 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55304244          -13.55304244         -13.55304244
+   2           -14.56163639          -14.56163639          -1.00859395
+   3           -14.56850039          -14.56850039          -0.00686400
+   4           -14.56863279          -14.56863279          -0.00013240
+   5           -14.56863546          -14.56863546          -0.00000267
+
+ Final single point energy:          -14.56863546  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863546  Hartree
+         HF Energy:        -14.56863546  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.506261664
+           2.761600000      3.272129541
+           1.423600000      1.761446091
+           0.908400000      0.724607703
+
+ change in energy after optimization step:   0.00000096 Hartree
+
+ *******************************************
+ ********** Optimization step  78 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   1 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55233161          -13.55233161         -13.55233161
+   2           -14.56165101          -14.56165101          -1.00931939
+   3           -14.56850167          -14.56850167          -0.00685066
+   4           -14.56863377          -14.56863377          -0.00013210
+   5           -14.56863643          -14.56863643          -0.00000266
+
+ Final single point energy:          -14.56863643  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863643  Hartree
+         HF Energy:        -14.56863643  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.506203309
+           2.761600000      3.272171776
+           1.423600000      1.761295150
+           0.908400000      0.723154579
+
+ change in energy after optimization step:  -0.00000097 Hartree
+
+ *******************************************
+ ********** Optimization step  79 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   2 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55234027          -13.55234027         -13.55234027
+   2           -14.56165086          -14.56165086          -1.00931059
+   3           -14.56850166          -14.56850166          -0.00685081
+   4           -14.56863377          -14.56863377          -0.00013210
+   5           -14.56863643          -14.56863643          -0.00000266
+
+ Final single point energy:          -14.56863643  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863643  Hartree
+         HF Energy:        -14.56863643  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.506205457
+           2.761600000      3.272168434
+           1.423600000      1.761288533
+           0.908400000      0.723168475
+
+ change in energy after optimization step:  -0.00000000 Hartree
+
+ *******************************************
+ ********** Optimization step  80 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   3 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55235139          -13.55235139         -13.55235139
+   2           -14.56165074          -14.56165074          -1.00929935
+   3           -14.56850166          -14.56850166          -0.00685092
+   4           -14.56863377          -14.56863377          -0.00013211
+   5           -14.56863643          -14.56863643          -0.00000266
+
+ Final single point energy:          -14.56863643  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863643  Hartree
+         HF Energy:        -14.56863643  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.506207495
+           2.761600000      3.272158691
+           1.423600000      1.761248680
+           0.908400000      0.723173302
+
+ change in energy after optimization step:  -0.00000000 Hartree
+
+ *******************************************
+ ********** Optimization step  81 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   2 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55302837          -13.55302837         -13.55302837
+   2           -14.56164506          -14.56164506          -1.00861669
+   3           -14.56850129          -14.56850129          -0.00685623
+   4           -14.56863370          -14.56863370          -0.00013242
+   5           -14.56863637          -14.56863637          -0.00000267
+
+ Final single point energy:          -14.56863637  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863637  Hartree
+         HF Energy:        -14.56863637  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.506206470
+           2.761600000      3.272149779
+           1.423600000      1.757681272
+           0.908400000      0.723178183
+
+ change in energy after optimization step:   0.00000005 Hartree
+
+ *******************************************
+ ********** Optimization step  82 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   2 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55245681          -13.55245681         -13.55245681
+   2           -14.56164983          -14.56164983          -1.00919302
+   3           -14.56850161          -14.56850161          -0.00685178
+   4           -14.56863377          -14.56863377          -0.00013216
+   5           -14.56863643          -14.56863643          -0.00000266
+
+ Final single point energy:          -14.56863643  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863643  Hartree
+         HF Energy:        -14.56863643  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.506205316
+           2.761600000      3.272155742
+           1.423600000      1.760704925
+           0.908400000      0.723178940
+
+ change in energy after optimization step:  -0.00000005 Hartree
+
+ *******************************************
+ ********** Optimization step  83 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   3 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55247068          -13.55247068         -13.55247068
+   2           -14.56164964          -14.56164964          -1.00917896
+   3           -14.56850161          -14.56850161          -0.00685196
+   4           -14.56863377          -14.56863377          -0.00013216
+   5           -14.56863643          -14.56863643          -0.00000266
+
+ Final single point energy:          -14.56863643  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863643  Hartree
+         HF Energy:        -14.56863643  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.506204866
+           2.761600000      3.272155023
+           1.423600000      1.760669836
+           0.908400000      0.723193127
+
+ change in energy after optimization step:  -0.00000000 Hartree
+
+ *******************************************
+ ********** Optimization step  84 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   3 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55251033          -13.55251033         -13.55251033
+   2           -14.56164900          -14.56164900          -1.00913867
+   3           -14.56850159          -14.56850159          -0.00685259
+   4           -14.56863377          -14.56863377          -0.00013218
+   5           -14.56863643          -14.56863643          -0.00000266
+
+ Final single point energy:          -14.56863643  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863643  Hartree
+         HF Energy:        -14.56863643  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.506202496
+           2.761600000      3.272155115
+           1.423600000      1.760615425
+           0.908400000      0.723251282
+
+ change in energy after optimization step:  -0.00000000 Hartree
+
+ *******************************************
+ ********** Optimization step  85 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   2 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55251551          -13.55251551         -13.55251551
+   2           -14.56164904          -14.56164904          -1.00913354
+   3           -14.56850159          -14.56850159          -0.00685254
+   4           -14.56863377          -14.56863377          -0.00013218
+   5           -14.56863643          -14.56863643          -0.00000266
+
+ Final single point energy:          -14.56863643  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863643  Hartree
+         HF Energy:        -14.56863643  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.506195906
+           2.761600000      3.272155211
+           1.423600000      1.760545720
+           0.908400000      0.723235344
+
+ change in energy after optimization step:  -0.00000000 Hartree
+
+ *******************************************
+ ********** Optimization step  86 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   3 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55253942          -13.55253942         -13.55253942
+   2           -14.56164880          -14.56164880          -1.00910938
+   3           -14.56850157          -14.56850157          -0.00685277
+   4           -14.56863377          -14.56863377          -0.00013219
+   5           -14.56863643          -14.56863643          -0.00000266
+
+ Final single point energy:          -14.56863643  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863643  Hartree
+         HF Energy:        -14.56863643  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.506161448
+           2.761600000      3.272155202
+           1.423600000      1.760441490
+           0.908400000      0.723242483
+
+ change in energy after optimization step:  -0.00000000 Hartree
+
+ *******************************************
+ ********** Optimization step  87 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   3 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55262636          -13.55262636         -13.55262636
+   2           -14.56164802          -14.56164802          -1.00902166
+   3           -14.56850153          -14.56850153          -0.00685351
+   4           -14.56863377          -14.56863377          -0.00013223
+   5           -14.56863643          -14.56863643          -0.00000266
+
+ Final single point energy:          -14.56863643  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863643  Hartree
+         HF Energy:        -14.56863643  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.506088553
+           2.761600000      3.272155193
+           1.423600000      1.760013386
+           0.908400000      0.723252133
+
+ change in energy after optimization step:  -0.00000000 Hartree
+
+ *******************************************
+ ********** Optimization step  88 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   3 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55259803          -13.55259803         -13.55259803
+   2           -14.56164822          -14.56164822          -1.00905018
+   3           -14.56850155          -14.56850155          -0.00685333
+   4           -14.56863377          -14.56863377          -0.00013222
+   5           -14.56863643          -14.56863643          -0.00000266
+
+ Final single point energy:          -14.56863643  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863643  Hartree
+         HF Energy:        -14.56863643  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.506086339
+           2.761600000      3.272155156
+           1.423600000      1.760183230
+           0.908400000      0.723259273
+
+ change in energy after optimization step:  -0.00000000 Hartree
+
+ *******************************************
+ ********** Optimization step  89 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   3 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55264651          -13.55264651         -13.55264651
+   2           -14.56164742          -14.56164742          -1.00900091
+   3           -14.56850152          -14.56850152          -0.00685411
+   4           -14.56863377          -14.56863377          -0.00013224
+   5           -14.56863643          -14.56863643          -0.00000266
+
+ Final single point energy:          -14.56863643  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863643  Hartree
+         HF Energy:        -14.56863643  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.506087589
+           2.761600000      3.272154610
+           1.423600000      1.760123923
+           0.908400000      0.723333141
+
+ change in energy after optimization step:   0.00000000 Hartree
+
+ *******************************************
+ ********** Optimization step  90 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   2 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55263176          -13.55263176         -13.55263176
+   2           -14.56164784          -14.56164784          -1.00901608
+   3           -14.56850153          -14.56850153          -0.00685370
+   4           -14.56863377          -14.56863377          -0.00013223
+   5           -14.56863643          -14.56863643          -0.00000266
+
+ Final single point energy:          -14.56863643  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863643  Hartree
+         HF Energy:        -14.56863643  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.506086391
+           2.761600000      3.272154685
+           1.423600000      1.760054656
+           0.908400000      0.723278032
+
+ change in energy after optimization step:  -0.00000000 Hartree
+
+ *******************************************
+ ********** Optimization step  91 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   3 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55263697          -13.55263697         -13.55263697
+   2           -14.56164776          -14.56164776          -1.00901079
+   3           -14.56850153          -14.56850153          -0.00685377
+   4           -14.56863377          -14.56863377          -0.00013224
+   5           -14.56863643          -14.56863643          -0.00000266
+
+ Final single point energy:          -14.56863643  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863643  Hartree
+         HF Energy:        -14.56863643  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.506085881
+           2.761600000      3.272154624
+           1.423600000      1.760042592
+           0.908400000      0.723283821
+
+ change in energy after optimization step:  -0.00000000 Hartree
+
+ *******************************************
+ ********** Optimization step  92 **********
+ *******************************************
+
+ calculating gradient of slater exponents
+   1 of   4 gradients done
+   2 of   4 gradients done
+   3 of   4 gradients done
+   4 of   4 gradients done
+   4 out of   4 exponents converged
+
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1           -13.55265386          -13.55265386         -13.55265386
+   2           -14.56164753          -14.56164753          -1.00899367
+   3           -14.56850152          -14.56850152          -0.00685399
+   4           -14.56863377          -14.56863377          -0.00013224
+   5           -14.56863643          -14.56863643          -0.00000266
+
+ Final single point energy:          -14.56863643  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:        -14.56863643  Hartree
+         HF Energy:        -14.56863643  Hartree
+
+ New slater exponents:
+ *********************
+
+ Atom     old exponent     new exponent
+ Be  1
+           3.470300000      5.506083750
+           2.761600000      3.272153908
+           1.423600000      1.759996897
+           0.908400000      0.723299991
+
+ change in energy after optimization step:   0.00000000 Hartree
+
+ Mullikan atomic population analysis:
+ ************************************
+
+ number of electrons entered:      4
+ number of electrons found:        4.00000
+
+ Atom     partial charge
+ Be  1    -0.00000
+
+ ************************************************
+ ********** CONVERGED AFTER  92 cycles **********
+ ************************************************
+
+ Optimized slater exponents:
+ ***************************
+
+ FINAL SCF ENERGY =  -14.5686364309
+
+ Atom     new exponent
+ Be  1
+            5.50608375
+            3.27215391
+            1.75999690
+            0.72329999

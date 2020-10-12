@@ -1,0 +1,9 @@
+set terminal wxt persist
+set xlabel "r / Bohr"
+set ylabel "E / Hartree"
+set title "Potential Energy Surface Scan"
+set autoscale
+plot "scan.dat" w l
+set terminal postscript portrait enhanced mono dashed lw 1 'Helvetica' 14
+set output "scan.pdf"
+replot

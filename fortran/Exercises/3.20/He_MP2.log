@@ -1,0 +1,43 @@
+
+ ****************************************INPUT****************************************
+
+ atom      charge  coordinates
+
+ He  1     2.00    0.0000  0.0000  0.0000
+
+ *************************************END*OF*INPUT************************************
+
+ calculating nuclear repulsion energy...   done
+ setting up STO-6G basis             ...   done
+ calculating one electron integrals  ...   done
+ calculating two electron integrals  ...   done
+ calculating transformation matrix   ...   done
+
+ Beginning SCF-procedure:
+ ************************
+
+ iteration     total energy     electronic energy     change in energy
+   1            -2.75256545           -2.75256545          -2.75256545
+   2            -2.85884664           -2.85884664          -0.10628119
+   3            -2.86021558           -2.86021558          -0.00136895
+   4            -2.86025017           -2.86025017          -0.00003458
+   5            -2.86025137           -2.86025137          -0.00000120
+
+ Calculating MP2 Energy ... done
+
+ Final single point energy:           -2.87293719  Hartree
+
+ Components:
+ Nuclear Repulsion:          0.00000000  Hartree
+ Electronic Energy:         -2.86025137  Hartree
+         HF Energy:         -2.86025137  Hartree
+    MP2 Correction:         -0.01268583  Hartree
+
+ Mullikan atomic population analysis:
+ ************************************
+
+ number of electrons entered:      2
+ number of electrons found:        2.00000
+
+ Atom     partial charge
+ He  1     0.00000
