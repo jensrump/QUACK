@@ -29,7 +29,7 @@
 </p>
 
 <!-- TABLE OF CONTENTS -->
-##Table Of Contents
+## Table Of Contents
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
@@ -155,4 +155,3 @@ Project Link: [https://github.com/jensrump/QUACK](https://github.com/jensrump/QU
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jensrump
 [product-screenshot]: images/screenshot.png
--->
