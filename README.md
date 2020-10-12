@@ -12,7 +12,7 @@
       <img src="logo/logo.png" alt="Logo" width="80" height="80">
     </a>
   
-  <h3 align="center">QUACK - a quantum chemical kit</h3>
+  <h3 align="center">QUACK - A Quantum Chemical (Tool)kit</h3>
   
   <p align="center">
     Yet another quantumn chemical program package, but with great ambition and focus on visual appeal and user friendlieness.
