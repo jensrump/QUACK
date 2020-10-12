@@ -6,14 +6,15 @@
 <!-- [![LinkedIn][linkedin-shield]][linkedin-url] -->
 
 <!-- PROJECT LOGO -->
+<!--
 <br />
 <p align="center">
     <a href="https://github.com/jensrump/QUACK">
       <img src="logo/logo.png" alt="Logo" width="80" height="80">
     </a>
-  
+--><!--  
   <h3 align="center">QUACK - A Quantum Chemical Toolkit</h3>
-  
+--><!--
   <p align="center">
     Yet another quantumn chemical program package, but with great ambition (at least for me) and focus on visual appeal and user friendlieness.
   <br />
@@ -27,7 +28,7 @@
   <a href="https://github.com/jensrump/QUACK/public/requests">Request Feature</a>
  </p>
 </p>
-
+-->
 <!-- TABLE OF CONTENTS -->
 <!-- ## Table Of Contents -->
 <!--
