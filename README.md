@@ -15,9 +15,9 @@
   <h3 align="center">QUACK - A Quantum Chemical Toolkit</h3>
   
   <p align="center">
-    Yet another quantumn chemical program package, but with great ambition and focus on visual appeal and user friendlieness.
+    Yet another quantumn chemical program package, but with great ambition (at least for me) and focus on visual appeal and user friendlieness.
   <br />
-  <a href="https://github.com/jensrump/QUACK/public"><strong>Explore the work in progress </strong></a>
+  <a href="https://github.com/jensrump/QUACK/public"><strong>Explore the work in progress »</strong></a>
   <br />
   <br />
   <a href="https://github.com/jensrump/QUACK/public/demo">View Demo</a>
@@ -29,8 +29,8 @@
 </p>
 
 <!-- TABLE OF CONTENTS -->
-## Table Of Contents
-
+<!-- ## Table Of Contents -->
+<!--
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
@@ -42,81 +42,81 @@
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
-
+-->
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+<!-- ## About The Project -->
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 
 
-### Built With
-
+<!-- ### Built With -->
+<!-- 
 * [Python]()
 * [Fortran]()
-
+-->
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+<!-- ## Getting Started -->
 
-To get a local copy up and running follow these simple steps.
+<!-- To get a local copy up and running follow these simple steps. -->
 
-### Prerequisites
+<!-- ### Prerequisites -->
 
-This is an example of how to list things you need to use the software and how to install them.
+<!-- This is an example of how to list things you need to use the software and how to install them.
 * npm
 ```sh
 npm install npm@latest -g
-```
+``` -->
 
-### Installation
+<!-- ### Installation -->
 
-1. Clone the repo
+<!-- 1. Clone the repo
 ```sh
 git clone https://github.com/jensrump/QUACK.git
 ```
 2. Install NPM packages
 ```sh
 npm install
-```
+``` -->
 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+<!-- ## Usage -->
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<!-- Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources. -->
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+<!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
 
 
 
 <!-- ROADMAP -->
-## Roadmap
+<!-- ## Roadmap -->
 
-See the [open issues](https://github.com/jensrump/QUACK/issues) for a list of proposed features (and known issues).
+<!-- See the [open issues](https://github.com/jensrump/QUACK/issues) for a list of proposed features (and known issues). -->
 
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+<!-- ## Contributing -->
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+<!-- Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**. -->
 
-1. Fork the Project
+<!-- 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+5. Open a Pull Request -->
 
 
 
 <!-- LICENSE -->
-## License
+<!-- ## License -->
 
-Distributed under the MIT License. See `LICENSE` for more information.
+<!-- Distributed under the MIT License. See `LICENSE` for more information. -->
 
 
 
@@ -130,11 +130,11 @@ Project Link: [https://github.com/jensrump/QUACK](https://github.com/jensrump/QU
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+<!-- ## Acknowledgements -->
 
+<!-- * []()
 * []()
-* []()
-* []()
+* []() -->
 
 
 
